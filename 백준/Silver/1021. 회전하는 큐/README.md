@@ -36,3 +36,8 @@
 
  <p>첫째 줄에 문제의 정답을 출력한다.</p>
 
+
+### 메모
+<p>from collections import deque</p>
+<p>queue.rotate(-1) -> 왼쪽(덱의 시작) 회전</p>
+<p>queue.rotate(+1) -> 오른쪽(덱의 끝) 회전</p>
